@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Igor Dias ✌️
+Apaixonado por tecnologia, busco aprender diariamente e aplicar os conhecimentos adquiridos em novos projetos.
+Me preparando para conseguir ingressar na área, minha motivação diária é poder desenvolver soluções inovadoras e eficientes que contribuam com empresas e a sociedade como um todo.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-dias-da-silva/)
 
@@ -16,6 +18,3 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     
 </div><br/>
-
-Apaixonado por tecnologia, busco aprender diariamente e aplicar os conhecimentos adquiridos em novos projetos.
-Me preparando para conseguir ingressar na área, minha motivação diária é poder desenvolver soluções inovadoras e eficientes que contribuam com empresas e a sociedade como um todo.
