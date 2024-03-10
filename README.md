@@ -4,8 +4,6 @@ Me preparando para conseguir ingressar na área, minha motivação diária é po
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-dias-da-silva/)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorDias1998&show_icons=true&theme=gruvbox)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDias1998&layout=donut)](https://github.com/IgorDias1998/github-readme-stats)
 
 ### Tecnologias
