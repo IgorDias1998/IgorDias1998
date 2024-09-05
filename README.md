@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Igor Dias ✌️
 Analista de sistemas, busco aprender diariamente sobre a área de programação e outras áreas envolvidas.
+Com o foco em C# e todo ecossistema que envolve a linguagem, busco neste espaço mostrar minha evolução nos estudos e também desenvolver projetos práticos.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-dias-da-silva/)
 
