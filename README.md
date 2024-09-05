@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Igor Dias ✌️
-Apaixonado por tecnologia, busco aprender diariamente e aplicar os conhecimentos adquiridos em novos projetos.
-Me preparando para conseguir ingressar na área, minha motivação diária é poder desenvolver soluções inovadoras e eficientes que contribuam com empresas e a sociedade como um todo.
+Analista de sistemas, busco aprender diariamente sobre a área de programação e outras áreas envolvidas.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-dias-da-silva/)
 
