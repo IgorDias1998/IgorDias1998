@@ -4,8 +4,6 @@ Com o foco em C# e todo ecossistema que envolve a linguagem, busco neste espaço
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-dias-da-silva/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDias1998&layout=donut)](https://github.com/IgorDias1998/github-readme-stats)
-
 ### Tecnologias
 
 <div style="display: inline_block"><br>
